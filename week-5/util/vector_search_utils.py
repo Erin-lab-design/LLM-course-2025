@@ -32,9 +32,11 @@ def retrieve_relevant_resources(query: str,
         use_hybrid: If True, combines vector search with keyword matching
     """
 
-    # Embed the query
+    # Embed the query (ensure it's on the same device as embeddings)
+    device = embeddings.device
     query_embedding = model.encode(query,
-                                   convert_to_tensor=True)
+                                   convert_to_tensor=True,
+                                   device=device)
 
     # Get dot product scores on embeddings
     start_time = timer()
@@ -43,7 +45,8 @@ def retrieve_relevant_resources(query: str,
 
     if print_time:
         # print(f"[INFO] Time taken to get scores on {len(embeddings)} embeddings: {end_time-start_time:.5f} seconds.")
-        st.write(f"[INFO] Time taken to get scores on {len(embeddings)} embeddings: {end_time-start_time:.5f} seconds.")
+        if st is not None:
+            st.write(f"[INFO] Time taken to get scores on {len(embeddings)} embeddings: {end_time-start_time:.5f} seconds.")
 
     # Apply hybrid search boost if enabled
     if use_hybrid and pages_and_chunks is not None:

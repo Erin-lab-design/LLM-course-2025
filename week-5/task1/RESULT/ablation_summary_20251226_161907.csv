@@ -1,0 +1,8 @@
+Configuration,Embedding,Segmentation,Overlap,Hybrid,Context_Relevance,Answer_Relevance,Faithfulness,Overall,Delta_%
+BASELINE,all-mpnet-base-v2,spacy,0,False,0.625,0.760,0.767,0.718,+0.0%
+Test 1: Chinese Embedding,bge-large-zh-v1.5,spacy,0,False,0.611,0.808,0.838,0.752,+4.8%
+Test 2: Jieba Segmentation,all-mpnet-base-v2,jieba,0,False,0.721,0.763,0.704,0.729,+1.6%
+Test 2.5: Jieba + Overlap,all-mpnet-base-v2,jieba,2,False,0.683,0.793,0.808,0.761,+6.1%
+Test 3: Chinese Emb + Jieba,bge-large-zh-v1.5,jieba,0,False,0.644,0.781,0.857,0.761,+6.0%
+Test 4: + Overlap,bge-large-zh-v1.5,jieba,2,False,0.634,0.760,0.868,0.754,+5.1%
+Test 5: ALL IMPROVEMENTS,bge-large-zh-v1.5,jieba,2,True,0.634,0.834,0.818,0.762,+6.2%

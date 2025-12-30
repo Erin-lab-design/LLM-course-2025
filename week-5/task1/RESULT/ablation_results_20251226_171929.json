@@ -1,0 +1,164 @@
+{
+  "BASELINE (Original)": {
+    "config": {
+      "name": "BASELINE (Original)",
+      "embedding": "sentence-transformers/all-mpnet-base-v2",
+      "segmentation": "spacy",
+      "chunk_size": 10,
+      "overlap": 0,
+      "n_results": 10,
+      "use_hybrid": false
+    },
+    "metrics": {
+      "context_relevance": 0.5920581120745699,
+      "answer_relevance": 0.6337662337662338,
+      "faithfulness": 0.6889613526570048,
+      "overall": 0.6382618994992695,
+      "time": 8.028729059999751
+    }
+  },
+  "Test 1: Chinese Embedding Only": {
+    "config": {
+      "name": "Test 1: Chinese Embedding Only",
+      "embedding": "BAAI/bge-large-zh-v1.5",
+      "segmentation": "spacy",
+      "chunk_size": 10,
+      "overlap": 0,
+      "n_results": 10,
+      "use_hybrid": false
+    },
+    "metrics": {
+      "context_relevance": 0.6001938292580177,
+      "answer_relevance": 0.6987012987012987,
+      "faithfulness": 0.746652470835533,
+      "overall": 0.681849199598283,
+      "time": 9.961327359999995
+    }
+  },
+  "Test 2: Jieba Segmentation Only": {
+    "config": {
+      "name": "Test 2: Jieba Segmentation Only",
+      "embedding": "sentence-transformers/all-mpnet-base-v2",
+      "segmentation": "jieba",
+      "chunk_size": 10,
+      "overlap": 0,
+      "n_results": 10,
+      "use_hybrid": false
+    },
+    "metrics": {
+      "context_relevance": 0.701532145592677,
+      "answer_relevance": 0.7350649350649351,
+      "faithfulness": 0.6795087265675501,
+      "overall": 0.7053686024083874,
+      "time": 7.268397260001075
+    }
+  },
+  "Test 3: Add Overlap (2 sent)": {
+    "config": {
+      "name": "Test 3: Add Overlap (2 sent)",
+      "embedding": "sentence-transformers/all-mpnet-base-v2",
+      "segmentation": "spacy",
+      "chunk_size": 10,
+      "overlap": 2,
+      "n_results": 10,
+      "use_hybrid": false
+    },
+    "metrics": {
+      "context_relevance": 0.5920581120745699,
+      "answer_relevance": 0.7350649350649351,
+      "faithfulness": 0.7774483540902365,
+      "overall": 0.7015238004099138,
+      "time": 9.895002319999913
+    }
+  },
+  "Test 4: Hybrid Search Only": {
+    "config": {
+      "name": "Test 4: Hybrid Search Only",
+      "embedding": "sentence-transformers/all-mpnet-base-v2",
+      "segmentation": "spacy",
+      "chunk_size": 10,
+      "overlap": 0,
+      "n_results": 10,
+      "use_hybrid": true
+    },
+    "metrics": {
+      "context_relevance": 0.5920581120745699,
+      "answer_relevance": 0.6987012987012987,
+      "faithfulness": 0.7771717171717172,
+      "overall": 0.6893103759825286,
+      "time": 9.340485599998647
+    }
+  },
+  "Test 5: Chinese Embedding + Jieba": {
+    "config": {
+      "name": "Test 5: Chinese Embedding + Jieba",
+      "embedding": "BAAI/bge-large-zh-v1.5",
+      "segmentation": "jieba",
+      "chunk_size": 10,
+      "overlap": 0,
+      "n_results": 10,
+      "use_hybrid": false
+    },
+    "metrics": {
+      "context_relevance": 0.6286774300710712,
+      "answer_relevance": 0.7168831168831169,
+      "faithfulness": 0.770912035333088,
+      "overall": 0.7054908607624254,
+      "time": 7.0813153399984
+    }
+  },
+  "Test 6: Chinese Emb + Jieba + Overlap": {
+    "config": {
+      "name": "Test 6: Chinese Emb + Jieba + Overlap",
+      "embedding": "BAAI/bge-large-zh-v1.5",
+      "segmentation": "jieba",
+      "chunk_size": 10,
+      "overlap": 2,
+      "n_results": 10,
+      "use_hybrid": false
+    },
+    "metrics": {
+      "context_relevance": 0.6224855904927884,
+      "answer_relevance": 0.6987012987012987,
+      "faithfulness": 0.7685145501798151,
+      "overall": 0.6965671464579675,
+      "time": 9.533338920000825
+    }
+  },
+  "Test 7: ALL IMPROVEMENTS": {
+    "config": {
+      "name": "Test 7: ALL IMPROVEMENTS",
+      "embedding": "BAAI/bge-large-zh-v1.5",
+      "segmentation": "jieba",
+      "chunk_size": 10,
+      "overlap": 2,
+      "n_results": 10,
+      "use_hybrid": true
+    },
+    "metrics": {
+      "context_relevance": 0.6224855904927884,
+      "answer_relevance": 0.7350649350649351,
+      "faithfulness": 0.8116537717601547,
+      "overall": 0.7230680991059594,
+      "time": 10.680368780000572
+    }
+  },
+  "Test 8: All + Smaller Chunks (7 sent)": {
+    "config": {
+      "name": "Test 8: All + Smaller Chunks (7 sent)",
+      "embedding": "BAAI/bge-large-zh-v1.5",
+      "segmentation": "jieba",
+      "chunk_size": 7,
+      "overlap": 2,
+      "n_results": 10,
+      "use_hybrid": true
+    },
+    "metrics": {
+      "context_relevance": 0.6375471436788331,
+      "answer_relevance": 0.7350649350649351,
+      "faithfulness": 0.7124286853698618,
+      "overall": 0.6950135880378767,
+      "time": 8.223640580000938
+    }
+  }
+}

@@ -1,0 +1,5 @@
+Metric,Fixed-size,Semantic,Δ,Δ%
+Context Relevance,0.6344,0.6370,+0.0026,+0.4%
+Answer Relevance,0.8344,0.8011,-0.0333,-4.0%
+Faithfulness,0.8601,0.8520,-0.0080,-0.9%
+Overall Score,0.7763,0.7634,-0.0129,-1.7%

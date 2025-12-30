@@ -1,0 +1,6 @@
+Metric,Baseline,Improved,Δ,Δ%
+Context Relevance,0.625,0.634,+0.009,+1.5%
+Answer Relevance,0.764,0.809,+0.045,+5.9%
+Faithfulness,0.791,0.854,+0.063,+8.0%
+Overall Score,0.727,0.766,+0.039,+5.4%
+Avg Time (s),12.4,11.8,-0.6,-4.8%

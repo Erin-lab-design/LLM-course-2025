@@ -1,5 +1,6 @@
 from stqdm import stqdm
 import re
+import jieba.posseg as pseg
 
 def sentencize(pages_and_texts: list[dict], nlp):
     for item in stqdm(pages_and_texts):
@@ -10,6 +11,41 @@ def sentencize(pages_and_texts: list[dict], nlp):
 
         # Count the sentences
         item["page_sentence_count_spacy"] = len(item["sentences"])
+
+
+def sentencize_jieba(pages_and_texts: list[dict]):
+    """
+    Chinese-optimized sentence segmentation using jieba.
+    Better handles Chinese punctuation and sentence boundaries.
+    """
+    # Chinese sentence delimiters
+    chinese_delimiters = ['。', '！', '？', '；', '…']
+    
+    for item in stqdm(pages_and_texts, desc="Sentencizing with jieba"):
+        text = item["text"]
+        sentences = []
+        current_sentence = ""
+        
+        for char in text:
+            current_sentence += char
+            if char in chinese_delimiters:
+                if current_sentence.strip():
+                    sentences.append(current_sentence.strip())
+                current_sentence = ""
+        
+        # Add remaining text if any
+        if current_sentence.strip():
+            sentences.append(current_sentence.strip())
+        
+        item["sentences"] = sentences
+        item["page_sentence_count_jieba"] = len(sentences)
+    
+    return pages_and_texts
+
+
+def sentencize_chinese(pages_and_texts: list[dict]):
+    """Alias for sentencize_jieba for backwards compatibility."""
+    return sentencize_jieba(pages_and_texts)
 
 
 # chunking, i.e. grouping sentences into chunks of text
@@ -120,7 +156,7 @@ def chunk_improved(pages_and_texts: list[dict],
         overlap: Number of sentences to overlap between chunks (default: 2)
         min_chunk_size: Minimum chunk size to keep (default: 2)
     """
-    for item in stqdm(pages_and_texts):
+    for item in stqdm(pages_and_texts, desc="Creating improved chunks"):
         sentences = item["sentences"]
         if not sentences:
             item["sentence_chunks"] = []
@@ -168,6 +204,35 @@ def chunk_improved(pages_and_texts: list[dict],
         # Filter out chunks that are too small
         item["sentence_chunks"] = [c for c in unique_chunks if len(c) >= min_chunk_size]
         item["num_chunks"] = len(item["sentence_chunks"])
+
+
+def chunk_with_overlap(pages_and_texts: list[dict],
+                      chunk_size: int = 10,
+                      overlap: int = 2):
+    """
+    Simple overlapping chunking without header detection.
+    Used for parameter optimization testing.
+    
+    Args:
+        pages_and_texts: List of page dictionaries with sentences
+        chunk_size: Number of sentences per chunk
+        overlap: Number of sentences to overlap between chunks
+    
+    Returns:
+        List of chunk dictionaries
+    """
+    for item in stqdm(pages_and_texts, desc="Creating chunks with overlap"):
+        sentences = item["sentences"]
+        if not sentences:
+            item["sentence_chunks"] = []
+            item["num_chunks"] = 0
+            continue
+        
+        # Use overlapping window approach
+        item["sentence_chunks"] = split_list_overlapping(sentences, chunk_size, overlap)
+        item["num_chunks"] = len(item["sentence_chunks"])
+    
+    return pages_and_texts
 
 # Convert chunks into text elements ready for embedding
 def chunks_to_text_elems(pages_and_texts: list[dict]) -> list[dict]:

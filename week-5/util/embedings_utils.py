@@ -4,9 +4,22 @@ import numpy as np
 import torch
 
 def embed_chunks(pages_and_chunks: list[dict], embedding_model):
-    # Embed each chunk one by one
-    for item in stqdm(pages_and_chunks):
-        item["embedding"] = embedding_model.encode(item["sentence_chunk"])
+    # Embed chunks in batches for better GPU utilization
+    batch_size = 32  # Process 32 chunks at a time for GPU efficiency
+    device = embedding_model.device
+    
+    for i in stqdm(range(0, len(pages_and_chunks), batch_size)):
+        batch = pages_and_chunks[i:i+batch_size]
+        texts = [item["sentence_chunk"] for item in batch]
+        
+        # Encode batch on GPU
+        embeddings = embedding_model.encode(texts, 
+                                           convert_to_numpy=True,
+                                           show_progress_bar=False)
+        
+        # Assign embeddings back to items
+        for j, item in enumerate(batch):
+            item["embedding"] = embeddings[j]
 
 def save_embeddings(pages_and_chunks: list[dict]) -> str:
     # Save embeddings to file

@@ -1,0 +1,57 @@
+[
+  {
+    "topic": "Map Search",
+    "original": "restaurants near Central Park",
+    "variants": [
+      "resturants near Centrl Parke",
+      "restaurants ner Cenral PArk",
+      "rastaurants neir Centrail Parque",
+      "restaraunts near Cental Parck",
+      "resstaurants near Centrel Parek"
+    ]
+  },
+  {
+    "topic": "Map Search",
+    "original": "shortest route to Times Square from JFK Airport",
+    "variants": [
+      "resturant rouete to Times Squier from JKF Airpirt",
+      "form shortist rout to Tymes Square from JFk Airpor",
+      "tuffest rotu to Times Sqare from JKf Arport",
+      "bussiness rouete to Times Squer from JFK Airopert",
+      "timmes squier rotu from jfk airpourt"
+    ]
+  },
+  {
+    "topic": "Map Search",
+    "original": "petrol stations open now in downtown Los Angeles",
+    "variants": [
+      "petrol staitons open now in down town los angeles",
+      "petrol statins opn now in dounwown los angelas",
+      "petrol stetions open naw in downtwn los aljansas",
+      "petrol stationz open nou in dowtown las angelez",
+      "petroil stations open noow in downtown los ajngls"
+    ]
+  },
+  {
+    "topic": "Map Search",
+    "original": "walking directions to Eiffel Tower from Louvre Museum",
+    "variants": [
+      "resturant direkshuns to Eiffel Touwer frm Louvre Museeum",
+      "waling dirrections to Eiffle Tower form Louvre Musuem",
+      "tuff walkin diretions to Effil Tower from Louvr Museum",
+      "bussiness dirrections to Eiffl Tower from Lawre Musem",
+      "walkin directons to Effel Tour from Lowe Muzium"
+    ]
+  },
+  {
+    "topic": "Map Search",
+    "original": "nearest hiking trails in Yosemite National Park",
+    "variants": [
+      "resturant hikin trails in Yosimite Nationall Parke",
+      "neerest hiking trailz in YoSemite Nationa Park",
+      "hikin tralls in Yosemitie Nacional Pare",
+      "narest hikin trailes in Yossimite National PArk",
+      "yosemite nationall park hikin trails nearest"
+    ]
+  }
+]
