@@ -1,0 +1,826 @@
+[
+  {
+    "topic": "Map Search",
+    "original": "restaurants near Central Park",
+    "variants": [
+      "resturants near Centrl Parke",
+      "resaturants neir Cenral Paree",
+      "restaraunts near Centrail Partk",
+      "resturant's near Centrl Pake",
+      "restraunts near Centrl PArk"
+    ],
+    "search_test": {
+      "original_search": {
+        "query": "restaurants near Central Park",
+        "results": [
+          {
+            "title": "Where's your favourite place to eat near Central Park? : r/AskNYC",
+            "link": "https://www.reddit.com/r/AskNYC/comments/11sepwq/wheres_your_favourite_place_to_eat_near_central/",
+            "snippet": "Mar 16, 2023 ... I would walk over to Amsterdam Avenue (a block west of AMNH). There are a lot of restaurants going from about 77th Street up through 86th Street."
+          },
+          {
+            "title": "Any recommendations for nice but reasonable priced restaurants ...",
+            "link": "https://www.facebook.com/groups/3135585626680301/posts/4017424105163111/",
+            "snippet": "Sep 13, 2025 ... Where should we eat lunch around Central Park? And Not Tavern on the Green. Looking for something different. ... What to do in New York? Georgette ..."
+          },
+          {
+            "title": "Restaurants Near East side of Central Park around 64th Street : r ...",
+            "link": "https://www.reddit.com/r/AskNYC/comments/1oo1clu/restaurants_near_east_side_of_central_park_around/",
+            "snippet": "Nov 4, 2025 ... Comments Section ... Jojo. La Goulue. Chez Fifi. ... Thank you! ... Daniel is fantastic, though on the higher end of things. Quality Meats is fun and ..."
+          },
+          {
+            "title": "THE 10 BEST Restaurants Near Central Park (Attraction) on 59th ...",
+            "link": "https://www.tripadvisor.com/RestaurantsNear-g60763-d105127-Central_Park-New_York_City_New_York.html",
+            "snippet": "Restaurants near Central Park · 1. The Consulate UWS. 4.8. (509 reviews) · 2. Cafe Sabarsky. 4.1. (730 reviews). German, Austrian$$ - $$$."
+          },
+          {
+            "title": "The Best 740 Restaurants Near Central Park Mall | OpenTable",
+            "link": "https://www.opentable.com/landmark/restaurants-near-central-park-new-york-1-center-dr",
+            "snippet": "4 days ago ... Discover the best restaurants near Central Park Mall, New York City. Find available tables for your party size and preferred time and ..."
+          }
+        ],
+        "total_results": "214000000",
+        "configured": true
+      },
+      "variant_comparisons": [
+        {
+          "variant": "resturants near Centrl Parke",
+          "search_results": {
+            "query": "resturants near Centrl Parke",
+            "results": [
+              {
+                "title": "Restaurants Near East side of Central Park around 64th Street : r ...",
+                "link": "https://www.reddit.com/r/AskNYC/comments/1oo1clu/restaurants_near_east_side_of_central_park_around/",
+                "snippet": "Nov 4, 2025 ... Hey NYC,. I'm planning to propose to my better half in January in Central Park and looking for a restaurant that we can go to afterwards."
+              },
+              {
+                "title": "What are the best Italian food options near Bryant Park and Central ...",
+                "link": "https://www.facebook.com/groups/what.to.do.in.new.york/posts/2181399312192697/",
+                "snippet": "May 9, 2024 ... If anyone is looking for a fabulous Italian restaurant I can highly recommend Il Corso on 54 W 55th Street. It won't disappoint! It's about a 10 ..."
+              },
+              {
+                "title": "Best Local Spots Near Central Park : r/denverfood",
+                "link": "https://www.reddit.com/r/denverfood/comments/1nl92eq/best_local_spots_near_central_park/",
+                "snippet": "Sep 19, 2025 ... South of 70 in Central Park has Cativella, all the place in Stanley Marketplace, Second Dawn brewing(Mishap Coffee in the AM), Dirty Laundry bar ..."
+              },
+              {
+                "title": "What are some recommendations for restaurants and activities in ...",
+                "link": "https://www.facebook.com/groups/what.to.do.in.new.york/posts/2475756776090281/",
+                "snippet": "Apr 24, 2025 ... Could anyone recommend any good restaurants near Central Park? ; Kirsten Robson. Jacob's pickles on Amsterdam avenue ; Caroline Nolan. central ..."
+              },
+              {
+                "title": "Sarabeth's Central Park South | Iconic Brunch & Dining Near ...",
+                "link": "https://www.sarabethsrestaurants.com/location/sarabeths-central-park-south/",
+                "snippet": "Sarabeth's CPS is ideally located near Central Park, just steps from the historic Plaza Hotel, Carnegie Hall, and the Museum of Modern Art (MOMA)."
+              }
+            ],
+            "total_results": "929000000",
+            "configured": true
+          },
+          "comparison": {
+            "identical": false,
+            "overlap_count": 1,
+            "overlap_percentage": 20.0,
+            "total_original": 5,
+            "total_variant": 5,
+            "different_count": 8
+          }
+        },
+        {
+          "variant": "resaturants neir Cenral Paree",
+          "search_results": {
+            "query": "resaturants neir Cenral Paree",
+            "results": [
+              {
+                "title": "What are the best restaurants near Bernard Jacob's theater that can ...",
+                "link": "https://www.facebook.com/groups/nyctraveltipsandhacks/posts/28613417834923793/",
+                "snippet": "Nov 21, 2024 ... ... flow of your night. ..⭐ . 1 yr · Pari Kuechenmeister. Molyvos · 1 yr · 1. Tali Segal. Becco Bocca di Bacco Havana Central Utsav (Indian). 1 ..."
+              },
+              {
+                "title": "What are the restaurants in Paris that you can't skip if you are in town ...",
+                "link": "https://www.reddit.com/r/ParisTravelGuide/comments/1mjfusa/what_are_the_restaurants_in_paris_that_you_cant/",
+                "snippet": "Aug 6, 2025 ... Quite simply dont go to any restaurants near the arc de triomphe ... It's not very central but definitely worthy detour, been my pho ..."
+              },
+              {
+                "title": "Takeout recommendations near Creamy Acres",
+                "link": "https://www.facebook.com/groups/SouthJerseyFoodScene/posts/1803641560411844/",
+                "snippet": "Dec 5, 2024 ... If you go, I highly recommend asking for Lindsey. You'll never have better service! - at Petit Paree Restaurant & Lounge."
+              },
+              {
+                "title": "Where to stay in Paris for first time travelers : r/ParisTravelGuide",
+                "link": "https://www.reddit.com/r/ParisTravelGuide/comments/1eqelbl/where_to_stay_in_paris_for_first_time_travelers/",
+                "snippet": "Aug 12, 2024 ... ... restaurants, fairly central with easy access to many sights ... Hotel Crayon is in the 2nd near some nice restaurants and very centrally located."
+              },
+              {
+                "title": "NorthPark Center | Dallas' Top Shopping Destination",
+                "link": "https://northparkcenter.com/",
+                "snippet": "NorthPark is home to 200 retailers, including luxury boutiques, trend-setting brands, restaurants, and movie theatres. ... Central Expressway Dallas, TX ..."
+              }
+            ],
+            "total_results": "1570000",
+            "configured": true
+          },
+          "comparison": {
+            "identical": false,
+            "overlap_count": 0,
+            "overlap_percentage": 0.0,
+            "total_original": 5,
+            "total_variant": 5,
+            "different_count": 10
+          }
+        },
+        {
+          "variant": "restaraunts near Centrail Partk",
+          "search_results": {
+            "query": "restaraunts near Centrail Partk",
+            "results": [
+              {
+                "title": "Restaurants Near East side of Central Park around 64th Street : r ...",
+                "link": "https://www.reddit.com/r/AskNYC/comments/1oo1clu/restaurants_near_east_side_of_central_park_around/",
+                "snippet": "Nov 4, 2025 ... Comments Section ... Jojo. La Goulue. Chez Fifi. ... Thank you! ... Daniel is fantastic, though on the higher end of things. Quality Meats is fun and ..."
+              },
+              {
+                "title": "What are some recommendations for restaurants and activities in ...",
+                "link": "https://www.facebook.com/groups/what.to.do.in.new.york/posts/2475756776090281/",
+                "snippet": "Apr 24, 2025 ... Could anyone recommend any good restaurants near Central Park? ; Kirsten Robson. Jacob's pickles on Amsterdam avenue ; Caroline Nolan. central ..."
+              },
+              {
+                "title": "5 Awesome Vegan-Friendly Restaurants Near Central Park South ...",
+                "link": "https://bruceschinkel.com/restaurants-near-central-park-south/",
+                "snippet": "They're located at 62 W 56th St (between 5th Ave and Ave of the Americas), making unique vegan creations in a sushi-style."
+              },
+              {
+                "title": "Best Mexican restaurant near Central Park?",
+                "link": "https://www.facebook.com/groups/nyctraveltipsandhacks/posts/6914536608571895/",
+                "snippet": "Sep 24, 2021 ... There's Rosa Mexicano (get the pomegranate margarita) as mentioned near Lincoln Center, and also El Miitote and Playa Betty on the UWS. Javelina ..."
+              },
+              {
+                "title": "Central Park Boathouse | Dining, Events and Row Boats",
+                "link": "https://centralparkboathouse.com/",
+                "snippet": "... around us. A New Chapter in Our Story. The Boathouse has been thoughtfully ... Our restaurant is located inside of Central Park, which means all guests ..."
+              }
+            ],
+            "total_results": "356000000",
+            "configured": true
+          },
+          "comparison": {
+            "identical": false,
+            "overlap_count": 1,
+            "overlap_percentage": 20.0,
+            "total_original": 5,
+            "total_variant": 5,
+            "different_count": 8
+          }
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Map Search",
+    "original": "shortest route to Times Square from JFK Airport",
+    "variants": [
+      "resturant rout to Times Sqare from JKF AirPort",
+      "formest rouete to Timze Squere from JFK Aripport",
+      "tuffest rute to Times Sq. from J.F.K. Aipport",
+      "bussiness route to Times Squer from JFK Arport",
+      "stortest rote to Tymes Squir from JKf Airopor"
+    ],
+    "search_test": {
+      "original_search": {
+        "query": "shortest route to Times Square from JFK Airport",
+        "results": [
+          {
+            "title": "Best way to get from JFK to Times Square : r/usatravel",
+            "link": "https://www.reddit.com/r/usatravel/comments/1j3j8tk/best_way_to_get_from_jfk_to_times_square/",
+            "snippet": "Mar 4, 2025 ... Comments Section · Yellow Taxi: Flat fare of $70 + tolls and tip (expect about $90–$100 total). · Private car service: You can pre-book with ..."
+          },
+          {
+            "title": "Thinking of getting the train from JFK to Times Square. Is it easy as ...",
+            "link": "https://www.facebook.com/groups/what.to.do.in.new.york/posts/2414673362198623/",
+            "snippet": "Feb 20, 2025 ... Fast, cheap, and easy. Air Train to Jamaica. Take LIRR to Grand Central. From there a short 10 minute walk."
+          },
+          {
+            "title": "Best Way to Get from JFK to Times Square: A Complete Guide ...",
+            "link": "https://www.blade.com/best-way-to-get-from-jfk-to-time-square",
+            "snippet": "The cheapest way to get to Times Square from the airport is by taking the subway, which takes about an hour and involves one transfer. It's budget-friendly and ..."
+          },
+          {
+            "title": "Best way to get from jfk to time square : r/AskNYC",
+            "link": "https://www.reddit.com/r/AskNYC/comments/1b2n8to/best_way_to_get_from_jfk_to_time_square/",
+            "snippet": "Feb 29, 2024 ... Best way to get from jfk to the Edison on time square is it taxi/air train or subway also travelling with 4 suitcases?"
+          },
+          {
+            "title": "Public Transportation - JFK - John F. Kennedy International Airport",
+            "link": "https://www.jfkairport.com/to-from-airport/public-transportation",
+            "snippet": "The choice is clear: Taking the subway or LIRR (20 mins from NY Penn or Grand Central to AirTrain JFK) is the best way to get to JFK. Almost half the time, and ..."
+          }
+        ],
+        "total_results": "4030000",
+        "configured": true
+      },
+      "variant_comparisons": [
+        {
+          "variant": "resturant rout to Times Sqare from JKF AirPort",
+          "search_results": {
+            "query": "resturant rout to Times Sqare from JKF AirPort",
+            "results": [
+              {
+                "title": "Easiest location to get to Cheesecake Factory from JFK?",
+                "link": "https://www.facebook.com/groups/what.to.do.in.new.york/posts/2410905892575370/",
+                "snippet": "Feb 16, 2025 ... If you're staying near Times Square, Junior's cheesecake is an NY icon and they have food, too! But call the restaurant and ask about it luggage ..."
+              },
+              {
+                "title": "Best way to get from JFK to Times Square : r/usatravel",
+                "link": "https://www.reddit.com/r/usatravel/comments/1j3j8tk/best_way_to_get_from_jfk_to_times_square/",
+                "snippet": "Mar 4, 2025 ... Honestly NYC airports kind of have terrible connections for what they are. I actually think Newirk's airport has the best connection if you can ..."
+              },
+              {
+                "title": "How far is Times Square from jfk airport please?",
+                "link": "https://www.facebook.com/groups/what.to.do.in.new.york/posts/1692918124374154/",
+                "snippet": "May 30, 2022 ... What is the best airport to fly into? How far away are MSG and the Yankees stadium from Times Square? What's the best route of travel!"
+              },
+              {
+                "title": "Best Way to Get from JFK to Times Square: A Complete Guide ...",
+                "link": "https://www.blade.com/best-way-to-get-from-jfk-to-time-square",
+                "snippet": "Yes, you can travel from JFK to Manhattan by helicopter using Blade's airport helicopter transfer service. Blade operates direct helicopter flights between JFK ..."
+              },
+              {
+                "title": "What is the best way to get from JFK airport to DoubleTree by Hilton ...",
+                "link": "https://www.facebook.com/groups/what.to.do.in.new.york/posts/2004247313241232/",
+                "snippet": "Aug 6, 2023 ... What is the best way to get from JFK airport to DoubleTree by Hilton Hotel New York Times Square West please."
+              }
+            ],
+            "total_results": "239000",
+            "configured": true
+          },
+          "comparison": {
+            "identical": false,
+            "overlap_count": 2,
+            "overlap_percentage": 40.0,
+            "total_original": 5,
+            "total_variant": 5,
+            "different_count": 6
+          }
+        },
+        {
+          "variant": "formest rouete to Timze Squere from JFK Aripport",
+          "search_results": {
+            "query": "formest rouete to Timze Squere from JFK Aripport",
+            "results": [
+              {
+                "title": "Any step-by-step directions from Times Square to JFK Airport?",
+                "link": "https://www.facebook.com/groups/what.to.do.in.new.york/posts/2434693833529909/",
+                "snippet": "Mar 14, 2025 ... But if you need to travel to a place that only local lines service, take your time (e.g. Line 1 is a local route in Manhattan but I had to take ..."
+              },
+              {
+                "title": "How to get from JFK Airport to Forest Hills, Queens NY | Uber",
+                "link": "https://www.uber.com/global/en/r/routes/jfk-to-forest-hills-queens-new-york-city-us/",
+                "snippet": "Or you can request a ride on demand from JFK Airport in the Uber app. The route your driver takes might depend on the time of day and other factors, like ..."
+              },
+              {
+                "title": "Easiest location to get to Cheesecake Factory from JFK?",
+                "link": "https://www.facebook.com/groups/what.to.do.in.new.york/posts/2410905892575370/",
+                "snippet": "Feb 16, 2025 ... Coming over Saturday, recommendations for taxi from JFK airport to Time Square please · Ozzy Alcantara and 4 others. 5 reactions ·. 26 comments."
+              },
+              {
+                "title": "Getting to NYC from JFK Airport : r/newyorkcity",
+                "link": "https://www.reddit.com/r/newyorkcity/comments/102muzf/getting_to_nyc_from_jfk_airport/",
+                "snippet": "Jan 3, 2023 ... The thing about the airtrain/LIRR route - which is perfectly fine ... JFK to Time Square Advice. 3 upvotes · 31 comments. The city that ..."
+              },
+              {
+                "title": "Route Maps & Schedules | StarMetro",
+                "link": "https://www.talgov.com/starmetro/starmetro-routes",
+                "snippet": "All Weekday Routes: Real-Time Map | PDF Map. Discover more about each route below, with a brief overview and full details on a dedicated page."
+              }
+            ],
+            "total_results": "4060000",
+            "configured": true
+          },
+          "comparison": {
+            "identical": false,
+            "overlap_count": 0,
+            "overlap_percentage": 0.0,
+            "total_original": 5,
+            "total_variant": 5,
+            "different_count": 10
+          }
+        },
+        {
+          "variant": "tuffest rute to Times Sq. from J.F.K. Aipport",
+          "search_results": {
+            "query": "tuffest rute to Times Sq. from J.F.K. Aipport",
+            "results": [
+              {
+                "title": "What is the safest and best option for traveling from Times Square to ...",
+                "link": "https://www.facebook.com/groups/what.to.do.in.new.york/posts/2360919417574018/",
+                "snippet": "Dec 17, 2024 ... Is it possible to visit Times Square during a layover at JFK airport? ... Which train station would you recommend if we decide to take this route?"
+              },
+              {
+                "title": "JFK to Manhattan: airtrain or express bus? : r/travel",
+                "link": "https://www.reddit.com/r/travel/comments/180y8pg/jfk_to_manhattan_airtrain_or_express_bus/",
+                "snippet": "Nov 22, 2023 ... Air train to subway was super easy w same luggage. Yes they have elevators and escalators. Took about an hour to reach Times Square midafternoon ..."
+              },
+              {
+                "title": "Best way to get from EWR to Times Square area?",
+                "link": "https://www.facebook.com/groups/newyorktraveltipsadviceandinspiration/posts/1656926785189171/",
+                "snippet": "Feb 14, 2025 ... ... JFK? Lourdes Collazo and 2 others. 3 reactions ·. 21 comments. 󱎖. Best route from Madison Square to Newark Airport? Richa Dixit ▻ New ..."
+              },
+              {
+                "title": "What is the best (as in least expensive/most reliable) way to get from ...",
+                "link": "https://www.quora.com/What-is-the-best-as-in-least-expensive-most-reliable-way-to-get-from-LaGuardia-Airport-to-Times-Square",
+                "snippet": "Sep 5, 2018 ... What is the easiest way and route to get to Times Square and other touristy places from LaGuardia Airport? By subway, cab, bus, or Lyft?"
+              },
+              {
+                "title": "JFK - SIN via Singapore Airlines started Nov 9th and is longest flight ...",
+                "link": "https://www.reddit.com/r/aviation/comments/k03fm5/jfk_sin_via_singapore_airlines_started_nov_9th/",
+                "snippet": "Nov 24, 2020 ... I agree with you on the diversion airport consideration in these routings. For SQ's SIN-JFK route there seem to be plenty of diversion ..."
+              }
+            ],
+            "total_results": "5560000",
+            "configured": true
+          },
+          "comparison": {
+            "identical": false,
+            "overlap_count": 0,
+            "overlap_percentage": 0.0,
+            "total_original": 5,
+            "total_variant": 5,
+            "different_count": 10
+          }
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Map Search",
+    "original": "petrol stations open now in downtown Los Angeles",
+    "variants": [
+      "resturants opn now in downtwon LA",
+      "petrol staitons opne now in downtown LAs angels",
+      "petroleum statins are open now in dontown los angelas",
+      "petrol stationes open no w in downtown la",
+      "pestrol stations opn now in doun town los angeles"
+    ],
+    "search_test": {
+      "original_search": {
+        "query": "petrol stations open now in downtown Los Angeles",
+        "results": [
+          {
+            "title": "TOP 10 BEST Gas Stations Open Late near Downtown, Los Angeles ...",
+            "link": "https://www.yelp.com/search?find_desc=Gas+Stations+Open+Late&find_loc=Downtown%2C+Los+Angeles%2C+CA",
+            "snippet": "Top 10 Best Gas Stations Open Late in Los Angeles, CA - Last Updated November 2025 - Yelp - Shell, 7-Eleven, Power Market, The Corner Store - Arts District, ..."
+          },
+          {
+            "title": "Union Station Los Angeles",
+            "link": "https://www.unionstationla.com/",
+            "snippet": "Union Station is more than a bustling transportation hub in the heart of the city. It's a cultural hub connecting the infinitely varied and wonderful ..."
+          },
+          {
+            "title": "TOP 10 BEST Gas Stations Open Late in Los Angeles, CA - Updated ...",
+            "link": "https://www.yelp.com/search?find_desc=Gas+Stations+Open+Late&find_loc=Los+Angeles%2C+CA",
+            "snippet": "Top 10 Best Gas Stations Open Late in Los Angeles, CA - Last Updated November 2025 - Yelp - Power Market, Shell, ampm, Beverly 76, Mobil, 76 Gas Station, ..."
+          },
+          {
+            "title": "Visit - Union Station Los Angeles",
+            "link": "https://unionstationla.com/visit/",
+            "snippet": "Union Station is open to the public from 4:00 am to 1:00 am daily. An iconic landmark, the station serves as a vibrant symbol of Downtown connecting the ..."
+          },
+          {
+            "title": "Station Map | H2FCP",
+            "link": "https://h2fcp.org/stationmap",
+            "snippet": "The Hawaiian Gardens station is now open with Limited filling capability! ... Los Angeles - West Washington Blvd. Station Status: Cancelled. Hours. Hydrogen ..."
+          }
+        ],
+        "total_results": "14600000",
+        "configured": true
+      },
+      "variant_comparisons": [
+        {
+          "variant": "resturants opn now in downtwon LA",
+          "search_results": {
+            "query": "resturants opn now in downtwon LA",
+            "results": [
+              {
+                "title": "Mastro's Ocean Club Downtown L.A.",
+                "link": "https://www.mastrosrestaurants.com/location/mastros-ocean-club-la/",
+                "snippet": "Mastro's Ocean Club Downtown L.A. is one of the most sought-after dining destinations in Los Angeles ... Now Open in San Diego! Reservations. Facebook · Twitter ..."
+              },
+              {
+                "title": "Cara Cara Rooftop Restaurant | Downtown L.A. Proper Hotel",
+                "link": "https://www.properhotel.com/downtown-la/restaurants-bars/cara-cara/",
+                "snippet": "Vote Now Travel + Leisure's 2026 World's Best Awards are open. Enter to win cash prize. Vote Now. Give the gift of Proper — gift cards redeemable across all ..."
+              },
+              {
+                "title": "Where to eat after 11 pm? : r/AskLosAngeles",
+                "link": "https://www.reddit.com/r/AskLosAngeles/comments/1dog5kz/where_to_eat_after_11_pm/",
+                "snippet": "Jun 25, 2024 ... Suehiro downtown LA location. Great food (their matcha and hojicha desserts are also so good) and open til 1am!"
+              },
+              {
+                "title": "Perch LA",
+                "link": "https://www.perchla.com/",
+                "snippet": "... Now Available Sunday to Friday. Perch. Dinner & Menus · Happy Hour 4p-6p ... The restaurant charges a 20% auto-gratuity on all food and beverage items ..."
+              },
+              {
+                "title": "Has anybody tried the new La Fiesta on Main restaurant in ...",
+                "link": "https://www.facebook.com/groups/dininginthecouve/posts/1148395113363753/",
+                "snippet": "Jan 29, 2025 ... La Feista downtown Vancouver Washington fantastic today. Service and food awesome. I do alot of independent restaurants and this is tops. No ..."
+              }
+            ],
+            "total_results": "245000000",
+            "configured": true
+          },
+          "comparison": {
+            "identical": false,
+            "overlap_count": 0,
+            "overlap_percentage": 0.0,
+            "total_original": 5,
+            "total_variant": 5,
+            "different_count": 10
+          }
+        },
+        {
+          "variant": "petrol staitons opne now in downtown LAs angels",
+          "search_results": {
+            "query": "petrol staitons opne now in downtown LAs angels",
+            "results": [
+              {
+                "title": "Union Station Los Angeles",
+                "link": "https://www.unionstationla.com/",
+                "snippet": "Union Station is more than a bustling transportation hub in the heart of the city. It's a cultural hub connecting the infinitely varied and wonderful ..."
+              },
+              {
+                "title": "Los Angeles station charges $8/gallon as gas prices continue to ...",
+                "link": "https://abc7ny.com/post/gas-prices-8-dollars-per-gallon-los-angeles-station-fuel-costs/11914986/",
+                "snippet": "Jun 1, 2022 ... Nowhere are they feeling the pain at the pump more than in Los Angeles where one gas station posted prices above $8 per gallon Tuesday."
+              },
+              {
+                "title": "California cities banning new gas stations amid climate change ...",
+                "link": "https://www.latimes.com/california/story/2022-07-11/california-cities-ban-new-gas-stations-amid-climate-change",
+                "snippet": "Jul 11, 2022 ... From 2016 to summer 2021, Los Angeles approved permits for only one ... gas in downtown Los Angeles on June 1. (Mel Melcon / Los Angeles ..."
+              },
+              {
+                "title": "Downtown Los Angeles gas station charges more than $8 a gallon ...",
+                "link": "https://abc7.com/post/gas-prices-downtown-los-angeles-station-8-a-gallon/11912891/",
+                "snippet": "Jun 1, 2022 ... It has risen 9.1 cents over the past five days, including nine-tenths of a cent Monday. The Orange County average price is 8 cents more than one ..."
+              },
+              {
+                "title": "Visit - Union Station Los Angeles",
+                "link": "https://unionstationla.com/visit/",
+                "snippet": "Union Station is open to the public from 4:00 am to 1:00 am daily. An iconic landmark, the station serves as a vibrant symbol of Downtown connecting the ..."
+              }
+            ],
+            "total_results": "15000000",
+            "configured": true
+          },
+          "comparison": {
+            "identical": false,
+            "overlap_count": 2,
+            "overlap_percentage": 40.0,
+            "total_original": 5,
+            "total_variant": 5,
+            "different_count": 6
+          }
+        },
+        {
+          "variant": "petroleum statins are open now in dontown los angelas",
+          "search_results": {
+            "query": "petroleum statins are open now in dontown los angelas",
+            "results": [
+              {
+                "title": "Find Your Station | Los Angeles Fire Department",
+                "link": "https://lafd.org/fire-stations/station-results",
+                "snippet": "Happening Now. Alerts · Red Flag · News · Sign Up for Alerts · LAFD LIVE. Fire ... — Oil Wells. ABOUT — Central Bureau — South Bureau — Valley Bureau — West ..."
+              },
+              {
+                "title": "U.S. Food and Drug Administration",
+                "link": "https://www.fda.gov/",
+                "snippet": "The FDA is responsible for protecting the public health by ensuring the safety, efficacy, and security of human and veterinary drugs, biological products, ..."
+              },
+              {
+                "title": "TOP 10 BEST Gas Stations Open Late near Downtown, Los Angeles ...",
+                "link": "https://www.yelp.com/search?find_desc=Gas+Stations+Open+Late&find_loc=Downtown%2C+Los+Angeles%2C+CA",
+                "snippet": "Top 10 Best Gas Stations Open Late in Los Angeles, CA - Last Updated November 2025 - Yelp - Shell, 7-Eleven, Power Market, The Corner Store - Arts District, ..."
+              },
+              {
+                "title": "Krispy Krunchy Chicken® – Freshly Made, Perfectly Cajun",
+                "link": "https://www.krispykrunchy.com/",
+                "snippet": "... Open your Own Order Now. YOU EITHER KNOW HOW GOOD IT IS OR YOU HAVEN'T TRIED ... LA 71301. 1-800-290-6097. About Us. About KKC · Contact Us · Careers · Legal"
+              },
+              {
+                "title": "Claremont | Foothill Gold Line",
+                "link": "https://foothillgoldline.org/cities_stations/claremont/",
+                "snippet": "Once completed, a trip from Claremont to Pasadena will take approximately 38 minutes and further to downtown Los Angeles will take approximately 67 minutes."
+              }
+            ],
+            "total_results": "10500",
+            "configured": true
+          },
+          "comparison": {
+            "identical": false,
+            "overlap_count": 1,
+            "overlap_percentage": 20.0,
+            "total_original": 5,
+            "total_variant": 5,
+            "different_count": 8
+          }
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Map Search",
+    "original": "walking directions to Eiffel Tower from Louvre Museum",
+    "variants": [
+      "walking direcitons to Eiffel Towr from Louvre Museem",
+      "waking dirrections to Effil Tower form Lowre Musium",
+      "walking directins to Ifeel Tower form Louvure Museum",
+      "walkin gdirections to Efelle Touwer form Louvre Musem",
+      "wikling directions to Eyffel Tower from Lourve Miseum"
+    ],
+    "search_test": {
+      "original_search": {
+        "query": "walking directions to Eiffel Tower from Louvre Museum",
+        "results": [
+          {
+            "title": "Walking from the Louvre to Eiffel Tower and Arc de Triomphe in Paris",
+            "link": "https://www.facebook.com/groups/paristraveltiphotelbookingthingstodo/posts/1098373175375887/",
+            "snippet": "Feb 20, 2025 ... It's about 2.2 miles to the Eiffel Tower so unless you want to walk about an hour. No way. Same amount to the arc de triomphe. Once you leave ..."
+          },
+          {
+            "title": "Can you walk from the Louvre to the Eiffel Tower? - Quora",
+            "link": "https://www.quora.com/Can-you-walk-from-the-Louvre-to-the-Eiffel-Tower",
+            "snippet": "Aug 5, 2020 ... It takes about 45 minutes to make this walk. But you get to go along the river, and see the parks around the museum. A cab, or car, can get ..."
+          },
+          {
+            "title": "Cafes between Eiffel Tower and Louvre? - Rick Steves Travel Forum",
+            "link": "https://community.ricksteves.com/travel-forum/france/cafes-between-eiffel-tower-and-louvre",
+            "snippet": "Jun 10, 2023 ... Hi I'm hoping you can help me with some recommendations for cafes along this route close to the Seine. I planning on walking this on a ..."
+          },
+          {
+            "title": "What are the best ways to get from the Eiffel Tower to the Louvre ...",
+            "link": "https://www.quora.com/What-are-the-best-ways-to-get-from-the-Eiffel-Tower-to-the-Louvre-Museum",
+            "snippet": "Apr 3, 2017 ... It takes about 45 minutes to make this walk. But you get to go along the river, and see the parks around the museum. A cab, or car, can get ..."
+          },
+          {
+            "title": "Louvre and Eiffel Tower Already Booked Out - Advice? : r/travel",
+            "link": "https://www.reddit.com/r/travel/comments/12nl67u/louvre_and_eiffel_tower_already_booked_out_advice/",
+            "snippet": "Apr 15, 2023 ... I'm finally now getting around to checking ticketing sites, just to find out I'm already too late for both the Louvre and Eiffel Tower, which are fully booked ..."
+          }
+        ],
+        "total_results": "3310000",
+        "configured": true
+      },
+      "variant_comparisons": [
+        {
+          "variant": "walking direcitons to Eiffel Towr from Louvre Museem",
+          "search_results": {
+            "query": "walking direcitons to Eiffel Towr from Louvre Museem",
+            "results": [
+              {
+                "title": "What are the best ways to get from the Eiffel Tower to the Louvre ...",
+                "link": "https://www.quora.com/What-are-the-best-ways-to-get-from-the-Eiffel-Tower-to-the-Louvre-Museum",
+                "snippet": "Apr 3, 2017 ... ... Eiffel Tower to the Louvre Museum? All related (40) ... If you want to visit Le Louvre, don't walk and get some rest BEFORE the museum."
+              },
+              {
+                "title": "Musée du Louvre Official Website",
+                "link": "https://www.louvre.fr/en",
+                "snippet": "... museum's artworks. These activities celebrate the art of drawing, which plays a key role both in the Louvre's collection and in the fine arts. Family. The ..."
+              },
+              {
+                "title": "The OFFICIAL Eiffel Tower website: tickets, news, info...",
+                "link": "https://www.toureiffel.paris/en",
+                "snippet": "Discover or visit the tower: buy a ticket (14.50 to 36.10 € maximum for adults and 3.70 to 18.10 € for children and young people), news and practical ..."
+              },
+              {
+                "title": "Can you walk from the Louvre to the Eiffel Tower? - Quora",
+                "link": "https://www.quora.com/Can-you-walk-from-the-Louvre-to-the-Eiffel-Tower",
+                "snippet": "Aug 5, 2020 ... It takes about 45 minutes to make this walk. But you get to go along the river, and see the parks around the museum. A cab, or car, can get ..."
+              },
+              {
+                "title": "14 Best Places to See the Eiffel Tower Sparkle - Best Paris Family ...",
+                "link": "https://katiedonnellyphotography.com/blog/best-views-see-eiffel-tower-sparkle/",
+                "snippet": "Dec 1, 2023 ... Tuileries/ Louvre Museum Garden. From many places in the Tuileries garden you have a view of the tower in the distance. From the far end of ..."
+              }
+            ],
+            "total_results": "323000",
+            "configured": true
+          },
+          "comparison": {
+            "identical": false,
+            "overlap_count": 2,
+            "overlap_percentage": 40.0,
+            "total_original": 5,
+            "total_variant": 5,
+            "different_count": 6
+          }
+        },
+        {
+          "variant": "waking dirrections to Effil Tower form Lowre Musium",
+          "search_results": {
+            "query": "waking dirrections to Effil Tower form Lowre Musium",
+            "results": [
+              {
+                "title": "[WP] This is the prologue (or the first chapter) of the novel you've ...",
+                "link": "https://www.reddit.com/r/WritingPrompts/comments/3konk3/wp_this_is_the_prologue_or_the_first_chapter_of/",
+                "snippet": "Sep 12, 2015 ... Waking up to find your inbox at fifty - and counting - is not ... form a single entity of paramount brilliance that bridges sea and sky."
+              },
+              {
+                "title": "I googled my symptoms and it turns out I wasn't sick at all—I just ...",
+                "link": "https://www.facebook.com/groups/352181896150872/posts/1531401551562228/",
+                "snippet": "Aug 22, 2025 ... Wandering aimlessly through cobblestone streets, following the smell of fresh croissants instead of directions, and letting the Eiffel Tower ..."
+              },
+              {
+                "title": "Reynolda House Museum of American Art announces promised gifts ...",
+                "link": "https://reynolda.org/about/news/reynolda-house-museum-of-american-art-announces-promised-gifts-by-georgia-okeeffe-and-romare-bearden/",
+                "snippet": "Feb 9, 2021 ... In a dark forest, white birds spread their wings, which glow in the light of a full moon. And, in the lower left, Bearden has included the ..."
+              },
+              {
+                "title": "[WP] You are a supervillain. Your nemesis calls you to say, \"This is ...",
+                "link": "https://www.reddit.com/r/WritingPrompts/comments/xxjdon/wp_you_are_a_supervillain_your_nemesis_calls_you/",
+                "snippet": "Oct 6, 2022 ... 'Evil Deeds', was it?\" \"I stand by that,\" the hero replied resolutely. \"Why do you want me, of all people, to go to your friend's ..."
+              },
+              {
+                "title": "Understand what you read - Rewordify.com",
+                "link": "https://rewordify.com/index.php?u=6z3p54wgb9bgwc",
+                "snippet": "I could see his lips form a word of three syllables—remember I had nothing in the world to do but to (see/hear/become aware of) these nice things—and ..."
+              }
+            ],
+            "total_results": "1370000",
+            "configured": true
+          },
+          "comparison": {
+            "identical": false,
+            "overlap_count": 0,
+            "overlap_percentage": 0.0,
+            "total_original": 5,
+            "total_variant": 5,
+            "different_count": 10
+          }
+        },
+        {
+          "variant": "walking directins to Ifeel Tower form Louvure Museum",
+          "search_results": {
+            "query": "walking directins to Ifeel Tower form Louvure Museum",
+            "results": [
+              {
+                "title": "What are the best ways to get from the Eiffel Tower to the Louvre ...",
+                "link": "https://www.quora.com/What-are-the-best-ways-to-get-from-the-Eiffel-Tower-to-the-Louvre-Museum",
+                "snippet": "Apr 3, 2017 ... ... Eiffel Tower to the Louvre Museum? All related (40) ... If you want to visit Le Louvre, don't walk and get some rest BEFORE the museum."
+              },
+              {
+                "title": "14 Best Places to See the Eiffel Tower Sparkle - Best Paris Family ...",
+                "link": "https://katiedonnellyphotography.com/blog/best-views-see-eiffel-tower-sparkle/",
+                "snippet": "Dec 1, 2023 ... Tuileries/ Louvre Museum Garden. From many places in the Tuileries garden you have a view of the tower in the distance. From the far end of ..."
+              },
+              {
+                "title": "Can you walk from the Louvre to the Eiffel Tower? - Quora",
+                "link": "https://www.quora.com/Can-you-walk-from-the-Louvre-to-the-Eiffel-Tower",
+                "snippet": "Aug 5, 2020 ... It takes about 45 minutes to make this walk. But you get to go along the river, and see the parks around the museum. A cab, or car, can get ..."
+              },
+              {
+                "title": "Paris itinerary for 2-2.5 days with Eiffel Tower and more",
+                "link": "https://www.facebook.com/groups/what.to.do.in.paris/posts/2522890638054866/",
+                "snippet": "Mar 24, 2025 ... Eiffel Tower – go to the top Champs Elysees Arc De triumph Louvre Museum Museum ... walking that direction until I reach Notre Dame. How ..."
+              },
+              {
+                "title": "Where to Get the Best View of the Eiffel Tower – Midlife Globetrotter",
+                "link": "https://midlifeglobetrotter.com/best-view-eiffel-tower/",
+                "snippet": "Evening in Paris is my favorite time — daytime itineraries make way for relaxed enjoyment. The Louvre Museum takes on a magical glow, glimmering boats glide ..."
+              }
+            ],
+            "total_results": "80200",
+            "configured": true
+          },
+          "comparison": {
+            "identical": false,
+            "overlap_count": 2,
+            "overlap_percentage": 40.0,
+            "total_original": 5,
+            "total_variant": 5,
+            "different_count": 6
+          }
+        }
+      ]
+    }
+  },
+  {
+    "topic": "Map Search",
+    "original": "nearest hiking trails in Yosemite National Park",
+    "variants": [
+      "resturant hikin trails in Yosemity Natiowal Park",
+      "nearist hikng trails in Yoosemite Nationol Park",
+      "tuff hikn trailz in Yoosimty Natiownal Parke",
+      "hikin traisl in Youssemite National Parek",
+      "bussiness hikng trailys in Yosemtie Nationall Parlk"
+    ],
+    "search_test": {
+      "original_search": {
+        "query": "nearest hiking trails in Yosemite National Park",
+        "results": [
+          {
+            "title": "Looking for alternatives hikes outside the park next weekend ...",
+            "link": "https://www.reddit.com/r/Yosemite/comments/1c8tdf5/looking_for_alternatives_hikes_outside_the_park/",
+            "snippet": "Apr 20, 2024 ... Other valley hikes are 4 Mile Trail which may still be closed because it has northern exposure and Top of Yosemite Falls both of which are ..."
+          },
+          {
+            "title": "27 Best Hikes in Yosemite National Park (2025) to Put on Your ...",
+            "link": "https://www.shedreamsofalpine.com/blog/best-hikes-in-yosemite",
+            "snippet": "Apr 11, 2025 ... Best Place to Park to Access Trailhead: The closest parking area to this trailhead is actually called “The Trailhead” and is near Curry Village."
+          },
+          {
+            "title": "Yosemite Valley Day Hikes - Yosemite National Park (U.S. National ...",
+            "link": "https://www.nps.gov/yose/planyourvisit/valleyhikes.htm",
+            "snippet": "Nov 25, 2024 ... Mirror Lake Loop. Easy to Moderate. 2 mi / 3.2 km (lake & back) 5 mi / 8 km (entire loop). 100 ft (to lake) 200 ft (loop) ; Valley Loop Trail."
+          },
+          {
+            "title": "Absolutely must do trails in Yosemite : r/Yosemite",
+            "link": "https://www.reddit.com/r/Yosemite/comments/1b3j2xf/absolutely_must_do_trails_in_yosemite/",
+            "snippet": "Mar 1, 2024 ... ... hike/hiking-trails/yosemite-hikes/ · Ollidamra. • 2y ago. Half ... r/Yosemite - First time at Yosemite National Park. 5. 712 upvotes · 12 ..."
+          },
+          {
+            "title": "Astride Mariposa: Four Days of Hiking Outside of Yosemite ...",
+            "link": "https://www.yosemite.com/itineraries/astride-mariposa-four-days-of-hiking-outside-of-yosemite/",
+            "snippet": "Discover some of the best hikes near Yosemite. Mariposa hiking offers more scenic hiking trails beyond the walls of Yosemite National Park."
+          }
+        ],
+        "total_results": "4490000",
+        "configured": true
+      },
+      "variant_comparisons": [
+        {
+          "variant": "resturant hikin trails in Yosemity Natiowal Park",
+          "search_results": {
+            "query": "resturant hikin trails in Yosemity Natiowal Park",
+            "results": [],
+            "total_results": "0",
+            "configured": true
+          },
+          "comparison": {
+            "identical": false,
+            "overlap_count": 0,
+            "overlap_percentage": 0.0,
+            "reason": "No results found for one or both queries"
+          }
+        },
+        {
+          "variant": "nearist hikng trails in Yoosemite Nationol Park",
+          "search_results": {
+            "query": "nearist hikng trails in Yoosemite Nationol Park",
+            "results": [
+              {
+                "title": "27 Best Hikes in Yosemite National Park (2025) to Put on Your ...",
+                "link": "https://www.shedreamsofalpine.com/blog/best-hikes-in-yosemite",
+                "snippet": "Apr 11, 2025 ... In this post, we will dive into all the best hiking trails in Yosemite – over 25 of them are covered here!"
+              },
+              {
+                "title": "Looking for alternatives hikes outside the park next weekend ...",
+                "link": "https://www.reddit.com/r/Yosemite/comments/1c8tdf5/looking_for_alternatives_hikes_outside_the_park/",
+                "snippet": "Apr 20, 2024 ... It is probably the most popular trail in Yosemite so getting an early start is recommended. ... Two days of hiking · r/Yosemite - Two days of ..."
+              },
+              {
+                "title": "Astride Mariposa: Four Days of Hiking Outside of Yosemite ...",
+                "link": "https://www.yosemite.com/itineraries/astride-mariposa-four-days-of-hiking-outside-of-yosemite/",
+                "snippet": "Discover some of the best hikes near Yosemite. Mariposa hiking offers more scenic hiking trails beyond the walls of Yosemite National Park."
+              },
+              {
+                "title": "Absolutely must do trails in Yosemite : r/Yosemite",
+                "link": "https://www.reddit.com/r/Yosemite/comments/1b3j2xf/absolutely_must_do_trails_in_yosemite/",
+                "snippet": "Mar 1, 2024 ... ... hike/hiking-trails/yosemite-hikes/ · Ollidamra. • 2y ago. Half ... r/Yosemite - First time at Yosemite National Park. 5. 712 upvotes · 12 ..."
+              },
+              {
+                "title": "A Pro Hiker Shares 6 Best Hikes in Yosemite National Park",
+                "link": "https://57hours.com/best-of/yosemite-hikes/",
+                "snippet": "... hiking trails in the country. This is a trail you'll never forget and won't regret hiking. Although you need a permit, Half Dome is worth the hassle of ..."
+              }
+            ],
+            "total_results": "221000",
+            "configured": true
+          },
+          "comparison": {
+            "identical": false,
+            "overlap_count": 4,
+            "overlap_percentage": 80.0,
+            "total_original": 5,
+            "total_variant": 5,
+            "different_count": 2
+          }
+        },
+        {
+          "variant": "tuff hikn trailz in Yoosimty Natiownal Parke",
+          "search_results": {
+            "query": "tuff hikn trailz in Yoosimty Natiownal Parke",
+            "results": [],
+            "total_results": "0",
+            "configured": true
+          },
+          "comparison": {
+            "identical": false,
+            "overlap_count": 0,
+            "overlap_percentage": 0.0,
+            "reason": "No results found for one or both queries"
+          }
+        }
+      ]
+    }
+  }
+]

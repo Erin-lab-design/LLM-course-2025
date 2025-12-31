@@ -1,0 +1,41 @@
+================================================================================
+MENTAL HEALTH MODEL COMPARISON
+================================================================================
+
+Question:
+I have an important exam tomorrow, but I'm so nervous that I can't fall asleep. 
+My mind keeps racing with worries about failing. I've studied hard, but I still feel anxious. 
+What should I do to calm down and get some rest?
+
+================================================================================
+BASELINE MODEL RESPONSE:
+================================================================================
+Dear [Name],
+
+I am so sorry to hear about your anxiety and stress. I understand how overwhelming it can be to feel so nervous and anxious. The good news is that you are in good hands, and I'm here to help you feel more relaxed and at ease.
+
+I've experienced anxiety myself, and I know how it feels to feel overwhelmed and overloaded with worry. However, I've learned that it's normal to feel this way, and it's okay to take a break from studying and rest.
+
+If you need some extra support, I suggest talking to your professor or a counselor. They can provide you with resources and strategies to help you manage your anxiety. They can also provide you with additional support and guidance during your exam.
+
+Moreover, you can also try some relaxation techniques such as deep breathing, meditation, or yoga. These techniques can help you slow down your mind and calm down your body.
+
+Remember, it's okay to take a break from studying and rest. You are an empathetic mental health counselor, and I'm here to support you. I am here to listen, empathize, and provide you with the guidance and support you need to overcome your anxiety and get some rest.
+
+In closing, I want to assure you that I am here
+
+================================================================================
+FINE-TUNED MODEL RESPONSE:
+================================================================================
+I understand how you feel, and I'm glad that I can help. 
+I suggest you take a relaxing break before bed. Close your eyes, and take a few deep breaths. 
+Then, gently focus on your breathing, letting your mind wander for a few minutes. 
+After a few minutes, try to shift your attention to something calming, such as your favorite song, a soothing meditation, or a simple visualization. 
+Stay with this focus until you feel relaxed and ready to sleep. 
+Remember to avoid any stimulants or caffeine before bedtime, as they can make you feel even more jittery. 
+Also, try to get a good night's sleep, without any distractions or interruptions, and don't stay up late to study. 
+By doing so, you'll be able to feel more rested and focused the next day. 
+I hope this helps, and that you can get some restful sleep. 
+Good luck, and don't hesitate to reach out if you need more support. 
+Take care, 
+[Your Name]
